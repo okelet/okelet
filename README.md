@@ -2,7 +2,7 @@
 
 ¡Hola! Hello!
 
-[![RSS feed](https://img.shields.io/badge/rss-subscribe-green)](https://gist.github.com/okelet.atom)
+[![RSS feed](https://img.shields.io/badge/rss-subscribe_to_my_gist_feed-green)](https://gist.github.com/okelet.atom)
 
 * PINNED: [My Visual Studio Code extensions](https://gist.github.com/okelet/51b1964f47c2fbeede9753f57b99fb44)
 * 2021-07-12: [List resources in all regions using awsls](https://gist.github.com/okelet/125f74edc77305f661a2509b3854368e)
