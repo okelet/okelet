@@ -5,11 +5,16 @@
 :memo: Recent [blog posts](https://blog.okelet.com) ([from RSS](https://blog.okelet.com/index.xml)):
 
 <!--START_SECTION:blog-->
-* [Instalación y configuración de Windows Terminal y Powershell](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2020&#x2F;02&#x2F;instalacion-y-configuracion-de-windows-terminal-y-powershell&#x2F;)
-* [Obtener la fecha de creación de las instancias de AWS EC2](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2020&#x2F;02&#x2F;obtener-la-fecha-de-creacion-de-las-instancias-de-aws-ec2&#x2F;)
-* [Configurar Microk8s para usar repositorios de AWS ECR](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2020&#x2F;01&#x2F;configurar-microk8s-para-usar-repositorios-de-aws-ecr&#x2F;)
-* [Monitorizar memoria y errores de funciones Lambda](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2019&#x2F;09&#x2F;monitorizar-memoria-y-errores-de-funciones-lambda&#x2F;)
-* [Usando caddy para desarollo local en PHP](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2019&#x2F;07&#x2F;usando-caddy-para-desarollo-local-en-php&#x2F;)
+* [Instalación y configuración de Windows Terminal y Powershell](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2020&#x2F;02&#x2F;instalacion-y-configuracion-de-windows-terminal-y-powershell&#x2F;))
+* [Obtener la fecha de creación de las instancias de AWS EC2](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2020&#x2F;02&#x2F;obtener-la-fecha-de-creacion-de-las-instancias-de-aws-ec2&#x2F;))
+* [Configurar Microk8s para usar repositorios de AWS ECR](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2020&#x2F;01&#x2F;configurar-microk8s-para-usar-repositorios-de-aws-ecr&#x2F;))
+* [Monitorizar memoria y errores de funciones Lambda](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2019&#x2F;09&#x2F;monitorizar-memoria-y-errores-de-funciones-lambda&#x2F;))
+* [Usando caddy para desarollo local en PHP](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2019&#x2F;07&#x2F;usando-caddy-para-desarollo-local-en-php&#x2F;))
+* [Crear usuario y base de datos en Postgres y dar permisos](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2019&#x2F;06&#x2F;crear-usuario-y-base-de-datos-en-postgres-y-dar-permisos&#x2F;))
+* [Probando Ansible AWX con MicroK8s](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2019&#x2F;06&#x2F;probando-ansible-awx-con-microk8s&#x2F;))
+* [Crear un rol personalizado en Google Cloud para encendido y apagado de máquinas](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2019&#x2F;06&#x2F;crear-un-rol-personalizado-en-google-cloud-para-encendido-y-apagado-de-maquinas&#x2F;))
+* [Python es el lenguaje más popular hoy por hoy](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2019&#x2F;06&#x2F;python-es-el-lenguaje-mas-popular-hoy-por-hoy&#x2F;))
+* [Crear custom runtime para PHP en AWS Lambda](https:&#x2F;&#x2F;blog.okelet.com&#x2F;post&#x2F;2019&#x2F;06&#x2F;crear-custom-runtime-para-php-en-aws-lambda&#x2F;))
 <!--END_SECTION:blog-->
 
 * PINNED: [My Visual Studio Code extensions](https://gist.github.com/okelet/51b1964f47c2fbeede9753f57b99fb44)
