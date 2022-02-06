@@ -17,4 +17,4 @@ jobs:
           feed-url: https://blog.okelet.com/index.xml
           readme-section: blog
           max: 10
-          template: "* [{{ title }}]({{ link }}))"
+          template: "* [{{ title }}]({{ link }})"
