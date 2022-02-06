@@ -4,8 +4,8 @@
 
 :memo: Recent [blog posts](https://blog.okelet.com) ([from RSS](https://blog.okelet.com/index.xml)):
 
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!--START_SECTION:blog-->
+<!--END_SECTION:blog-->
 
 * PINNED: [My Visual Studio Code extensions](https://gist.github.com/okelet/51b1964f47c2fbeede9753f57b99fb44)
 * 2021-07-17: [New repository: front-back-gateway](https://gist.github.com/okelet/af4ee891225a9c042a2e4ccbc668862d)
