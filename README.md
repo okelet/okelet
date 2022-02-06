@@ -4,8 +4,7 @@
 
 :memo: Recent [blog posts](https://blog.okelet.com) ([from RSS](https://blog.okelet.com/index.xml)):
 
-<!-- BLOG-POST-LIST:START -->
-* 2020-02-25: [Instalación y configuración de Windows Terminal y Powershell](https://blog.okelet.com/post/2020/02/instalacion-y-configuracion-de-windows-terminal-y-powershell/)
+<!-- BLOG-POST-LIST:START -->* 2020-02-25: [Instalación y configuración de Windows Terminal y Powershell](https://blog.okelet.com/post/2020/02/instalacion-y-configuracion-de-windows-terminal-y-powershell/)
 * 2020-02-13: [Obtener la fecha de creación de las instancias de AWS EC2](https://blog.okelet.com/post/2020/02/obtener-la-fecha-de-creacion-de-las-instancias-de-aws-ec2/)
 * 2020-01-18: [Configurar Microk8s para usar repositorios de AWS ECR](https://blog.okelet.com/post/2020/01/configurar-microk8s-para-usar-repositorios-de-aws-ecr/)
 * 2019-09-01: [Monitorizar memoria y errores de funciones Lambda](https://blog.okelet.com/post/2019/09/monitorizar-memoria-y-errores-de-funciones-lambda/)
