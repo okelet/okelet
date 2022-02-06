@@ -22,3 +22,4 @@ jobs:
           comment_tag_name: BLOG-POST-LIST
           template: "* $date: [$title]($url)$newline"
           date_format: "yyyy-mm-dd"
+          tag_post_pre_newline: true
