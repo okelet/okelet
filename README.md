@@ -26,3 +26,7 @@
 * 2021-06-07: [Testing aws ecs execute-command](https://gist.github.com/okelet/2b3364fa18ce74f39b43b6ce8f31cccc)
 
 [![RSS feed](https://img.shields.io/badge/rss-subscribe_to_my_gist_feed-green)](https://gist.github.com/okelet.atom)
+
+## Fun facts
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okelet&layout=compact&exclude_repo=okelet.github.io)](https://github.com/okelet)
