@@ -2,7 +2,7 @@
 
 👋 ¡Hola! Hello!
 
-:memo: Recent [blog posts](https://blog.okelet.com) ([from RSS](https://blog.okelet.com/index.xml)):
+:memo: Recent [blog posts](https://blog.okelet.com) ([from RSS](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fblog.okelet.com%2Findex.xml)):
 
 <!-- BLOG-POST-LIST:START -->
 * 2020-02-25: [Instalación y configuración de Windows Terminal y Powershell](https://blog.okelet.com/post/2020/02/instalacion-y-configuracion-de-windows-terminal-y-powershell/)
