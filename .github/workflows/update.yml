@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Update README.md from blog RSS
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.okelet.com/index.xml"
