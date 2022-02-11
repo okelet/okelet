@@ -18,8 +18,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-[![RSS feed](https://img.shields.io/badge/rss-subscribe_to_my_gist_feed-green)](https://gist.github.com/okelet.atom)
-
 ## Fun facts
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okelet&layout=compact&exclude_repo=okelet.github.io)](https://github.com/okelet)
