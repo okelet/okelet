@@ -5,6 +5,7 @@
 :memo: Recent [blog posts](https://blog.okelet.com) ([from RSS](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fblog.okelet.com%2Findex.xml)):
 
 <!-- BLOG-POST-LIST:START -->
+* 2022-07-11: [Development Kubernetes cluster with Kind &lpar;4&rpar; - Nginx ingress](https://blog.okelet.dev/post/2022/07/development-kubernetes-cluster-with-kind-4-nginx-ingress/)
 * 2022-07-08: [Development Kubernetes cluster with Kind &lpar;3&rpar; - Dashboard](https://blog.okelet.dev/post/2022/07/development-kubernetes-cluster-with-kind-3-dashboard/)
 * 2022-07-06: [Development Kubernetes cluster with Kind &lpar;2&rpar; - Metrics server](https://blog.okelet.dev/post/2022/07/development-kubernetes-cluster-with-kind-2-metrics-server/)
 * 2022-07-04: [Development Kubernetes cluster with Kind](https://blog.okelet.dev/post/2022/07/development-kubernetes-cluster-with-kind/)
@@ -14,7 +15,6 @@
 * 2021-07-12: [New repository - front-back-gateway](https://blog.okelet.dev/post/2021/07/new-repository-front-back-gateway/)
 * 2021-06-22: [My favorite Visual Studio Code extensions](https://blog.okelet.dev/post/2021/06/my-favorite-visual-studio-code-extensions/)
 * 2021-06-16: [Testing Athena partition projection](https://blog.okelet.dev/post/2021/06/testing-athena-partition-projection/)
-* 2021-06-11: [Testing AWS PrivateLink](https://blog.okelet.dev/post/2021/06/testing-aws-privatelink/)
 
 <!-- BLOG-POST-LIST:END -->
 
